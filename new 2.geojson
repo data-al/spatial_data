@@ -5,8 +5,8 @@
       "properties": {
         "level": 1,
         "name": "Bird Exhibit",
-        "height": 0,
-        "base_height": 400,
+        "height": 400,
+        "base_height": 40,
         "color": "orange"
       },
       "geometry": {
